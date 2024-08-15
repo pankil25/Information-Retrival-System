@@ -18,23 +18,14 @@ To run this project, you need to have the following libraries installed:
 10. `argparse`
 11. `sys`
 
-### Important Note
-If the installed version of any package does not match the specified version, you may encounter errors. 
+## Important Note: 
+#### 1. If the installed version of any package does not match the specified version, you may encounter errors. <br>
+#### 2. Make sure all the python files and dataset folder and output folder are in same folder and run this command from this common directory only here i have taken template_code_part2 as common directory and all python files and cranfield dataset folder and output folder in template_code_part2 directory only.<br>
 
-### Model Download
+## Model Download<br>
 When running the project for the first time, the Word2Vec model will be downloaded, which is approximately 1.7 GB. This is a one-time download, and future runs will use the cached model.<br>
 
 
-
-
-
-
-
-<br>
-<br>
-
-
-### Make sure all the python files and dataset folder and output folder are in same folder and run this command from this common directory only here i have taken template_code_part2 as common directory and all python files and cranfield dataset folder and output folder in template_code_part2 directory only.
 
 
 ## Project Structure
