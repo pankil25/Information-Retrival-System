@@ -1,4 +1,4 @@
-You need to have following libraries to be installed to run project:
+## You need to have following libraries to be installed to run project:
 
 (1) scipy (version=1.12.0)
 (2) Microsft c++ build tool (version>= 14.0)
@@ -12,18 +12,18 @@ You need to have following libraries to be installed to run project:
 (10) argparse
 (11) sys
 
-If mention version is not matting installed version of packages then you might get errors
+### If mention version is not matting installed version of packages then you might get errors<br>
 
-While running first time word2vec will download model which is size of around 1.7 Gb so it one time download for future it will use from cache.
-
-
+### While running first time word2vec will download model which is size of around 1.7 Gb so it one time download for future it will use from cache.<br>
 
 
 
 
+<br>
+<br>
 
 
-Make sure all the python files and dataset folder and output folder are in same folder and run this command from this common directory only here i have taken template_code_part2 as common directory and all python files and cranfield dataset folder and output folder in template_code_part2 directory only.
+### Make sure all the python files and dataset folder and output folder are in same folder and run this command from this common directory only here i have taken template_code_part2 as common directory and all python files and cranfield dataset folder and output folder in template_code_part2 directory only.
 
 
 
